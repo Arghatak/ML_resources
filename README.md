@@ -6,12 +6,13 @@ A collection of articles, books and documents related to AI/ML topics
 Table of Contents
 
 1. SQL Articles
-[Highlights of SQL code](https://www.ntchosting.com/encyclopedia/databases/structured-query-language/)
+    -  [Highlights of SQL code](https://www.ntchosting.com/encyclopedia/databases/structured-query-language/)
+    -  [SQLite Tutorial](https://www.tutorialspoint.com/sqlite/index.htm)
 
 2. Python Articles
 
 3. ML Articles
-    3a.
+    - drgf
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://https://github.com/Arghatak/)
