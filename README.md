@@ -7,7 +7,8 @@ Table of Contents
 
 1. SQL Articles
     -  [Highlights of SQL code](https://www.ntchosting.com/encyclopedia/databases/structured-query-language/)
-    -  [SQLite Tutorial](https://www.tutorialspoint.com/sqlite/index.htm)
+    -  [SQLite Tutorial](https://www.tutorialspoint.com/sqlite/index.html)
+    -  [ER Diagrams] (https://www.youtube.com/watch?v=c0_9Y8QAstg)
 
 2. Python Articles
 
