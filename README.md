@@ -27,7 +27,14 @@ Table of Contents
 5. Visualization
     - [Matplotlib for beginners](https://medium.com/swlh/matplotlib-tutorial-for-beginners-2f07184668be)
 
-                                                               
+6. Video Content Creators
+    - [3Blue1Brown](https://www.youtube.com/c/3blue1brown)
+    - [Python Programmer](https://www.youtube.com/c/FlickThrough)
+    - [Keith Galli](https://www.youtube.com/c/KGMIT)
+    - [Serrano Academy](https://www.youtube.com/c/LuisSerrano)
+    - [Deep Lizard](https://www.youtube.com/c/deeplizard) 
+
+
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://https://github.com/Arghatak/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/aditiroyghatak)
