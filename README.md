@@ -12,7 +12,9 @@ Table of Contents
     -  [Star Schema vs. Snowflake Schema](https://www.vertabelo.com/blog/data-warehouse-modeling-star-schema-vs-snowflake-schema/)
     -  [Differences between Star and Snowflake design](https://www.youtube.com/watch?v=KUwOcip7Zzc)
     -  [Data Modeling](http://www.agiledata.org/essays/dataModeling101.html)
-2. Python Articles
+2. Python 
+    - Keras
+        - [How to Normalize, Center, and Standardize Image Pixels in Keras](https://machinelearningmastery.com/how-to-normalize-center-and-standardize-images-with-the-imagedatagenerator-in-keras/)
 
 3. ML Articles
     - drgf
