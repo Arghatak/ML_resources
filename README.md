@@ -19,17 +19,20 @@ Table of Contents
 3. ML Articles
     - [180 Projects Explained](https://medium.com/coders-camp/180-data-science-and-machine-learning-projects-with-python-6191bc7b9db9)
 
-4. Books
+4. Deep Learning
+    - [Early Stopping and Why](http://page.mi.fu-berlin.de/prechelt/Biblio/stop_tricks1997.pdf) 
+
+5. Books
     - [The Object Primer 3rd Ed: Agile Model Driven Development (AMDD) with UML 2](http://ambysoft.com/books/theObjectPrimer.html)
     - [Joe Celko's Data and Databases: Concepts in Practice (The Morgan Kaufmann Series in Data Management Systems)](https://www.amazon.com/exec/obidos/ASIN/1558604324/ambysoftinc)
     - [Choose Your WoW!](https://www.pmi.org/disciplined-agile/books/dad-handbook)
     - [What is data modeling – An Introduction for Business Analysts](http://business-analysis-excellence.com/what-is-data-modeling/)
     - [Wiki - Data Modeling](https://en.wikipedia.org/wiki/Data_modeling)
 
-5. Visualization
+6. Visualization
     - [Matplotlib for beginners](https://medium.com/swlh/matplotlib-tutorial-for-beginners-2f07184668be)
 
-6. Video Content Creators
+7. Video Content Creators
     - [3Blue1Brown](https://www.youtube.com/c/3blue1brown)
     - [Python Programmer](https://www.youtube.com/c/FlickThrough)
     - [Keith Galli](https://www.youtube.com/c/KGMIT)
