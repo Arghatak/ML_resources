@@ -17,7 +17,7 @@ Table of Contents
         - [How to Normalize, Center, and Standardize Image Pixels in Keras](https://machinelearningmastery.com/how-to-normalize-center-and-standardize-images-with-the-imagedatagenerator-in-keras/)
 
 3. ML Articles
-    - drgf
+    - [180 Projects Explained](https://medium.com/coders-camp/180-data-science-and-machine-learning-projects-with-python-6191bc7b9db9)
 
 4. Books
     - [The Object Primer 3rd Ed: Agile Model Driven Development (AMDD) with UML 2](http://ambysoft.com/books/theObjectPrimer.html)
