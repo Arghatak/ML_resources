@@ -28,6 +28,7 @@ Table of Contents
     - [Choose Your WoW!](https://www.pmi.org/disciplined-agile/books/dad-handbook)
     - [What is data modeling – An Introduction for Business Analysts](http://business-analysis-excellence.com/what-is-data-modeling/)
     - [Wiki - Data Modeling](https://en.wikipedia.org/wiki/Data_modeling)
+    - [Dive into Deep Learning](http://d2l.ai/chapter_preface/index.html)
 
 6. Visualization
     - [Matplotlib for beginners](https://medium.com/swlh/matplotlib-tutorial-for-beginners-2f07184668be)
