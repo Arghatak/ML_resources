@@ -15,6 +15,7 @@ Table of Contents
 2. Python 
     - Keras
         - [How to Normalize, Center, and Standardize Image Pixels in Keras](https://machinelearningmastery.com/how-to-normalize-center-and-standardize-images-with-the-imagedatagenerator-in-keras/)
+    - https://github.com/jakevdp/WhirlwindTourOfPython
 
 3. ML Articles
     - [180 Projects Explained](https://medium.com/coders-camp/180-data-science-and-machine-learning-projects-with-python-6191bc7b9db9)
